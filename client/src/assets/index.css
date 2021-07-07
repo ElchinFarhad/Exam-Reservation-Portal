@@ -1,0 +1,17 @@
+.nav{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("navbar.jpeg");
+
+  }
+
+
+  .slots {
+    display: flexbox;
+    background: aqua;
+
+    }
